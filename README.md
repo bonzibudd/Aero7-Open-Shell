@@ -11,5 +11,6 @@ Some improvements over the Classic Shell Aero theme:
  - Vertical spacing between buttons
  - Updated background bitmaps
  - Better horizontal spacing for icons/arrows
+ - Horizontal offset for jumplist items
 
 For a more fully-featured solution, please check out [WIN7LIKE RevB](http://www.classicshell.net/forum/viewtopic.php?t=5824) (at bottom of post discussion).
