@@ -1,4 +1,4 @@
-# Aero7-Open-Shell
+# Aero7 for Open-Shell
 Simple Windows 7 skin for Open-Shell Menu, provided as-is.
 
 This skin is created as an alternative to the "Windows Aero" skin included in Open-Shell Menu.
