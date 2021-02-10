@@ -5,7 +5,7 @@ This skin is created as an alternative to the "Windows Aero" skin included in Op
 
 ![Aero7](https://user-images.githubusercontent.com/61938331/104110162-d401cf00-52a2-11eb-83aa-1518352272c8.png)
 
-Some improvements over the Classic Shell Aero theme:
+Some improvements over the Open-Shell Aero theme:
 
  - Better padding for text items
  - Vertical spacing between buttons
